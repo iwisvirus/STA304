@@ -6,9 +6,9 @@ ysis:
 
 • Designing a survey or sample that is appropriately gathering information of interest. \\
 • Carrying out a variety of statistical analyses in R to make inference on the data collected
-from a survey/sample.\\
+from a survey/sample.//
 • Identifying and implementing different sampling techniques and different study designs
-and the trade-offs involved in each.\\
+and the trade-offs involved in each.//
 • Identifying sources of bias within a study and comment on a study’s design, including
 its weaknesses, strengths, and appropriate analyses.\\
 • Clearly communicating results of statistical analyses to technical and non-technical au-
